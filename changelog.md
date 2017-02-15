@@ -11,4 +11,5 @@ Changelog format: Bottom to top (New to old).
 <h2>Version: </h2>
 Version | Release Date | Description  | Editor
 --- | --- | --- | ---
+*v1.1* | Feb 15, 2017 | Completed Job 1 - Added models to the web application. `arnoldmyint
 *v1.0* | Feb 15, 2017 | Initial commit. | `bcitdaltond`
