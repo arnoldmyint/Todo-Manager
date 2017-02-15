@@ -40,6 +40,7 @@ class Welcome extends Application
         // and save that as a view parameter
         $this->data['remaining_tasks'] = $count;
 		$this->data['pagebody'] = 'homepage';
+		$this->data['pagetitle'] = 'ToDo - Group 08';
 		$this->render(); 
 	}
 
