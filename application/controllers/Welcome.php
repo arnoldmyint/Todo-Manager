@@ -1,5 +1,5 @@
 <?php
-
+$autoload['libraries'] = array('parser', 'database', 'parsedown');
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Welcome extends Application
