@@ -27,7 +27,7 @@
                 </div>
             </div>
             <div id="footer" class="span12">
-                Copyright &copy; 2017,  <a href="mailto:arnoldmyint@me.com">Me</a>.
+                Copyright &copy; 2017,  <a href="mailto:arnoldmyint@me.com">ToDo Inc.</a>.
             </div>
         </div>
         <script src="/assets/js/jquery-1.11.1.min.js"></script>
