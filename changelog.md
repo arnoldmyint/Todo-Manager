@@ -11,6 +11,7 @@ Changelog format: Bottom to top (New to old).
 <h2>Version: </h2>
 Version | Release Date | Description  | Editor
 --- | --- | --- | ---
+*v1.5* | Feb 15, 2017 | Tidy up for submission. | `bcitdaltond`
 *v1.4* | Feb 15, 2017 | Completed Job 5 - Added Helpme controller and job data. | `bcitdaltond`
 *v1.3* | Feb 15, 2017 | Completed Job 3 - Added Tasks by Priority and Tasks by Category under Work. | `arnoldmyint`
 *v1.2* | Feb 15, 2017 | Completed Job 2 - Added home page features. | `bcitdaltond`
